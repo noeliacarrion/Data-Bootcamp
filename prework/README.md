@@ -37,4 +37,9 @@ print ('Age =', age)
 ```
 
 Do as much as you can and good luck. In some cases the use of functions is recommended.
+
+
 In the folder workdone/BONUS there are some solutions and another topics of the prework, as MySQL or statistics. Enjoy!
+
+
+
