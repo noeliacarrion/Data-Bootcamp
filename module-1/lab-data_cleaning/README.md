@@ -85,3 +85,9 @@ Upon completion, add your deliverables to git. Then commit git, push to your for
 If you have completed the `Stats` challenge without much difficulty, you can try to tidy the data you will find in thie lab folder [weather](../weather-raw.csv). This dataset is a subset of a global historical climatology network dataset. The data represents the daily weather records for a weather station (MX17004) in Mexico for five months in 2010. The goal of this additional challenge is to get the most tidy dataset you are able to produce. **Hint:Variables are stored in both rows and columns.**
 
 To accomplish this challenge, you will need to do some research on tidying and melt&pivot. Feel free to reference any resources you consider appropiate.
+
+
+
+
+
+
